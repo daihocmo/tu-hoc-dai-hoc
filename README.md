@@ -58,6 +58,7 @@ Nguồn tài nguyên ở dưới đây thì gần 100% là Tiếng Anh. Nếu b�
 - System Administrator
     + [Awesome Sysadmin](https://github.com/awesome-foss/awesome-sysadmin)
     + [DevSecOps](https://github.com/sottlmarek/DevSecOps)
+
 ## Khối ngành Khoa học tự nhiên
 - Toán:
     - [Khan Academy](https://www.khanacademy.org/math) - Từ High School -> College (Nó khác so với cấp 3 và đại học ở bên mình).
