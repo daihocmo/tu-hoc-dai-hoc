@@ -1,43 +1,52 @@
-# How to learn digital marketing 
-
-_with 99+ resources and 8+ learning paths_
+# Lộ trình tự học ngành Marketing
 
 [Đọc hướng dẫn gốc trên Reddit](https://www.reddit.com/r/marketing/?f=flair_name%3A%22Guide%22)
 
-Hey guys! With the whole self-isolation thing going on, it's an awesome time to learn a new skill (or ten). Me and my bud (Nick) basically self-taught ourselves digital marketing over the past 6 years, and have been hoarding a bunch of cool guides and resources.
+## Bảng chỉ mục
 
-We recently decided to turn all of it into a giant resource package on how to learn digital marketing. Thought you guys would appreciate it!
+- [Cộng đồng](#cộng-đồng)
+- [Lộ trình học](#lộ-trình-học)
+- [Tiếng Anh chuyên ngành](#tiếng-anh-chuyên-ngành)
+- [Tài nguyên](#tài-nguyên)
+- [Đóng góp](#đóng-góp)
 
-So, here we go...
+## Cộng đồng
 
-Before we begin, here's how to learn digital marketing
-------------------------------------------------------
+### Discord 
 
-Before we dive deep into the guide and start teaching you individual digital marketing channels, let's cover some basics.
+### Reddit
+- [r/content_marketing](https://libreddit.bus-hit.me/r/content_marketing/)
+- [r/DigitalMarketing](https://libreddit.bus-hit.me/r/DigitalMarketing/)
 
-First things first - you need to decide which channel to start with.
+## Lộ trình học
 
-If you have a knack for writing, we'd recommend going with **Content Marketing** or **Copywriting**. On the other hand, if you're more analytics-oriented, go for **Search Ads** or **PPC**.
+### Trước khi bắt đầu
 
-As a given, you DON'T have to learn all the channels. You can just pick one that you like, and specialize in it!
+1. Bạn cần chọn phần để bắt đầu 
 
-Once you've decided on which channel to roll with, you should also establish a learning methodology.
+- Nếu bạn thiên về viết lách thì có thể chọn **Content Marketing** hoặc **Copywriting**. 
+- Nếu bạn thiên về phân tích thì có thể chọn **Search Ads** hoặc **PPC**.
 
-As with most things in life, reading on digital marketing won't take you far. You need to also put everything into practice.
+Bạn không cần phải học tất các các phần, hãy học thật chắc phần mà bạn theo
 
-We usually recommend going with one of these 4 options:
+Khi bạn đã quyết định nên học phần nào rồi, bạn cũng nên thiết lập một phương pháp học tập.
 
-1.  **Create a test learning environment**. Basically, you create a website for a basic product or service (heck, even a blog would do!), and start applying whatever you learned about digital marketing to get leads and customers. Even if you have ZERO budget, this can be an interesting learning experience. And yes - it's possible to start w/ a zero budget.
+Tương tự như rất nhiều thứ khác, việc chỉ đọc về digital marketing sẽ không giúp bạn tiến xa, bạn cần thực sự ứng dụng những gì mình đã học, thực hành.
 
-2.  **Get an internship**. This can be a bit painful if you're in the middle of your current career, but hey, swallow the pride. If you do your best, you'll be doing some real work 6 months after the internship.
+Bạn có thể chọn một trong 4 lựa chọn sau:
 
-3.  **Offer a local business to help them with marketing for free**. Find a business you think you can help in your area and reach out to them!
 
-4.  [Create an affiliate blog](https://www.searchenginejournal.com/affiliate-marketing-blogs/299053/). Pick a niche, create an affiliate blog, and start pumping out some content. This is mainly relevant if you want to learn SEO or content marketing.
+1. **Tạo môi trường học tập thử nghiệm**. Về cơ bản, bạn tạo một trang web cho một sản phẩm hoặc dịch vụ cơ bản (Thậm chí có thể là một Blog), và bắt đầu áp dụng bất cứ điều gì bạn đã học về Digital Marketing để có được khách hàng. Ngay cả khi bạn không có vốn, đây có thể là một trải nghiệm học tập hữu ích và bạn THỰC SỰ có thể bắt đầu với ngân sách bằng 0.
 
-And here's what you ***SHOULD NOT DO***:
+2. **Đi thực tập**. Sẽ khá là vấn đề nếu bạn đã có một công việc rồi. Nhưng này, tại sao không thử? Nếu cố gắng hết sức, bạn có thể sẽ được làm việc chính thức sau 6 tháng thực tập.
 
-*Read a guide or two, buy a course, whip out your own website, repurpose the course and start pretending to be a marketing expert to potential clients.*
+3. **Giúp tiếp thị cho một doanh nghiệp địa phương (local business) miễn phí**. Hãy tìm một doanh nghiệp mà bạn nghĩ rằng bạn có thể giúp đỡ trong khu vực của mình và liên hệ với họ.
+
+4.  [Tạo một blog liên kết - affiliate blog](https://www.searchenginejournal.com/affiliate-marketing-blogs/299053/). Chọn một vị trí thích hợp, tạo một blog liên kết và bắt đầu sản xuất nội dung. Đặc biệt nếu bạn muốn học SEO hoặc tiếp thị nội dung (Content Marketing).
+
+Và đây là những điều bạn ***KHÔNG NÊN LÀM***:
+
+*Đọc một hoặc hai hướng dẫn, mua một khóa học, tạo trang web của riêng bạn, đăng lại khóa học lên đó và bắt đầu giả làm một chuyên gia tiếp thị.*
 
 There are way too many people doing this as-is. Please stop! You're setting yourself up for failure.
 
@@ -45,23 +54,8 @@ You'd be surprised how many people we see on Facebook Ads groups asking, *"Hey 
 
 ...Now that we got that out of the way, let's get to learning some digital marketing!
 
-The ones we're going to cover in this guide are:
-
--   Content marketing
-
--   SEO
-
--   Search ads
-
--   PPC
-
--   Social media marketing
-
--   Copywriting
-
--   Email marketing
-
--   Web analytics
+### Những nội dung sẽ có trong hướng dẫn này
+- Content marketing- SEO- Search ads- PPC- Social media marketing- Copywriting- Email marketing- Web analytics
 
 **Quick Note**
 
@@ -108,25 +102,15 @@ Yes, yes it is. Here's why:
 Looking for the top resources to learn content marketing? Here is a mini-roadmap to get you going:
 
 1.  **First, learn the basics.** You can find a ton of online courses or articles on this. Here are some of our favorites:
-
     1.  [HubSpot's Academy content marketing course](https://academy.hubspot.com/courses/content-marketing)
-
     2.  Neil Patel's guide to [content marketing basics](https://neilpatel.com/what-is-content-marketing/)
-
     3.  Content Blogger's [guide to content marketing](https://copyblogger.com/content-marketing/)
-
 2.  Learn how to create and promote authority content
-
     1.  Hubspot's [guide to content creation](https://blog.hubspot.com/marketing/content-creation)
-
     2.  Copy Blogger's guide to [creating epic content](https://copyblogger.com/create-epic-content/)
-
     3.  How to [promote your content](https://contentmavericks.com/content-distribution/)
-
     4.  Another [guide on content promotion](https://buffer.com/resources/content-promotion)
-
 3.  Learn how to create SEO content (more on this in the next section)
-
     1.  How to use the skyscraper technique, [guide #1](https://ahrefs.com/blog/skyscraper-technique/) and [guide #2](https://www.singlegrain.com/blog-posts/link-building/the-skyscraper-technique-how-to-build-high-quality-backlinks-to-your-content/)
 
     2.  Our own guide to creating [SEO content](https://apollodigital.io/blog/seo-content)
@@ -154,16 +138,11 @@ Yes, yes it would. You'd be getting **highly qualified** leads for your softwa
 Cool, right?
 
 Here's what an SEO specialist does on a daily basis:
-
--   **Content Creation** - Create SEO content (or work with freelance writers)
-
--   **On-page SEO** - Make sure that all content on the blog is optimized for Google and interlinked to each other
-
--   **Technical SEO** - Make sure that the web dev team is following SEO best practices when working on the website
-
--   **SEO Strategy** - Doing keyword research and finding new web pages and content to create
-
--   **Link-building** - Conducting link-building (or supervising outreach specialists).
+- **Content Creation** - Create SEO content (or work with freelance writers)
+- **On-page SEO** - Make sure that all content on the blog is optimized for Google and interlinked to each other
+- **Technical SEO** - Make sure that the web dev team is following SEO best practices when working on the website
+- **SEO Strategy** - Doing keyword research and finding new web pages and content to create
+- **Link-building** - Conducting link-building (or supervising outreach specialists).
 
 Now, here's how to learn SEO...
 
@@ -237,29 +216,19 @@ If you're learning digital marketing because you own a local business, then the 
 
 Looking for additional resources? Here are some of our favorite SEO blogs:
 
--   [Backlinko](https://backlinko.com/blog)
-
--   [Moz](https://moz.com/blog)
-
--   [Ahrefs](https://ahrefs.com/blog/)
-
--   [Gotch SEO](https://www.youtube.com/channel/UCNEsahyXxNJvYNsMhru-UzQ)
-
--   [QuickSprout](https://www.quicksprout.com/blog/)
-
--   [Diggity Marketing](https://diggitymarketing.com/blog/)
+- [Backlinko](https://backlinko.com/blog)
+- [Moz](https://moz.com/blog)
+- [Ahrefs](https://ahrefs.com/blog/)
+- [Gotch SEO](https://www.youtube.com/channel/UCNEsahyXxNJvYNsMhru-UzQ)
+- [QuickSprout](https://www.quicksprout.com/blog/)
+- [Diggity Marketing](https://diggitymarketing.com/blog/)
 
 Finally, a big part of SEO is using the right tools. Here are the ones we use every day (and love):
-
--   **All-in-one SEO tool.** Usually, that's either [SEMrush](https://www.semrush.com/lp/position-tracking-5/en/?ref=3446955498&refer_source=&utm_source=berush&utm_medium=promo&utm_campaign=link_lp:position_tracking_bmc)or Ahrefs. You're going to use this tool for literally anything - keyword research, content audit, technical audit, backlink analysis, etc.
-
--   **Scraping tool.** That could be URL Profiler or Screaming Frog, the best tool out there for content/technical audits.
-
--   **Rank checker tool.** We use the [MozBar extension](https://moz.com/products/pro/seo-toolbar), a super nifty tool for checking DA/PA.
-
--   **Content gap analysis tool.** For us, that's [Surfer SEO](https://surferseo.com/?fp_ref=nick20). This is mainly used for performing a gap analysis between your content and that of the competition. You can get a top-down view of what all the top-ranking articles have in common for any given keyword, and whether your content is up to par.
-
--   **Keyword research tool**. [UberSuggest](https://neilpatel.com/ubersuggest/)is our #1 favorite here (and it's free-ish!).
+- **All-in-one SEO tool.** Usually, that's either [SEMrush](https://www.semrush.com/lp/position-tracking-5/en/?ref=3446955498&refer_source=&utm_source=berush&utm_medium=promo&utm_campaign=link_lp:position_tracking_bmc)or Ahrefs. You're going to use this tool for literally anything - keyword research, content audit, technical audit, backlink analysis, etc.
+- **Scraping tool.** That could be URL Profiler or Screaming Frog, the best tool out there for content/technical audits.
+- **Rank checker tool.** We use the [MozBar extension](https://moz.com/products/pro/seo-toolbar), a super nifty tool for checking DA/PA.
+- **Content gap analysis tool.** For us, that's [Surfer SEO](https://surferseo.com/?fp_ref=nick20). This is mainly used for performing a gap analysis between your content and that of the competition. You can get a top-down view of what all the top-ranking articles have in common for any given keyword, and whether your content is up to par.
+- **Keyword research tool**. [UberSuggest](https://neilpatel.com/ubersuggest/)is our #1 favorite here (and it's free-ish!).
 
 ## Learn Search Ads
 
@@ -283,21 +252,16 @@ The one that bids the highest, gets the highest ranking.
 Now given, this is a gross oversimplification, but that's the general idea behind it.
 
 Usually, you'd use search ads if you are any type of business with inbound demand. For example...
-
--   Are you a bar in London, UK? You can advertise on "bars sofia," "best bars sofia," and "sofia nightlife."
-
--   Are you a legal firm in New York? You'd advertise on "law firm new york," "immigration law firm new york", "immigration lawyer new york", and so on.
-
--   Are you an online resume builder? You can advertise on "resume template," "resume builder", " how to make a resume", and so on.
+- Are you a bar in London, UK? You can advertise on "bars sofia," "best bars sofia," and "sofia nightlife."
+- Are you a legal firm in New York? You'd advertise on "law firm new york," "immigration law firm new york", "immigration lawyer new york", and so on.
+- Are you an online resume builder? You can advertise on "resume template," "resume builder", " how to make a resume", and so on.
 
 Want to learn how to do search ads? Here are some of the best resources out there:
 
 Search Ads Learning Path
 ------------------------
-
--   The #1 free resource on learning search ads is [the Google Academy](https://skillshop.exceedlms.com/student/catalog/list?category_ids=53-google-ads?use_local=true), and a close second is [Ad Espresso's guide](https://adespresso.com/guides/google-ads-beginners/).
-
--   If you're more of a fan of video content, there's Surfside's [PPC tutorials](https://www.youtube.com/watch?v=rMvSWDtZGVo) or Isaac [Rudansky's Youtube channel](https://www.youtube.com/user/AdVenturMediGroup/videos).
+- The #1 free resource on learning search ads is [the Google Academy](https://skillshop.exceedlms.com/student/catalog/list?category_ids=53-google-ads?use_local=true), and a close second is [Ad Espresso's guide](https://adespresso.com/guides/google-ads-beginners/).
+- If you're more of a fan of video content, there's Surfside's [PPC tutorials](https://www.youtube.com/watch?v=rMvSWDtZGVo) or Isaac [Rudansky's Youtube channel](https://www.youtube.com/user/AdVenturMediGroup/videos).
 
 ...And that's it.
 
@@ -375,17 +339,12 @@ PPC Learning Path
 
 And here are some free web resources we recommend:
 
--   [/r/marketing](https://www.reddit.com/r/marketing/top/?t=all) best posts of all time. Not 100% about Facebook ads, but you can find some awesome posts here.
-
--   [/r/entrepreneur](https://www.reddit.com/r/Entrepreneur/top/?t=all). Same concept here. Generally about business, but people sometimes share some awesome resources on PPC (as well as business and marketing in general).
-
--   [Ad Espresso Blog](https://adespresso.com/blog/)
-
--   [Buffer Blog](https://buffer.com/resources/)
-
--   [HootSuite Blog](https://blog.hootsuite.com/)
-
--   [Perpetual Traffic](https://www.digitalmarketer.com/podcast/perpetual-traffic/)
+- [/r/marketing](https://www.reddit.com/r/marketing/top/?t=all) best posts of all time. Not 100% about Facebook ads, but you can find some awesome posts here.
+- [/r/entrepreneur](https://www.reddit.com/r/Entrepreneur/top/?t=all). Same concept here. Generally about business, but people sometimes share some awesome resources on PPC (as well as business and marketing in general).
+- [Ad Espresso Blog](https://adespresso.com/blog/)
+- [Buffer Blog](https://buffer.com/resources/)
+- [HootSuite Blog](https://blog.hootsuite.com/)
+- [Perpetual Traffic](https://www.digitalmarketer.com/podcast/perpetual-traffic/)
 
 Learn Social Media Marketing
 ----------------------------
@@ -424,17 +383,12 @@ The general idea is:
 
 So, accordingly, 90% of the work here is learning about each individual social media. Here are some of our favorite guides for that:
 
--   [Buffer's (general) guide to SMM](https://buffer.com/social-media-marketing)
-
--   [Facebook marketing](https://blog.hootsuite.com/facebook-marketing-tips/)
-
--   [Twitter marketing](https://blog.hootsuite.com/twitter-marketing/)
-
--   [Reddit marketing](https://www.socialmediaexaminer.com/how-to-market-reddit-guide-businesses/)
-
--   [Pinterest marketing](https://neilpatel.com/blog/ultimate-pinterest-marketing-guide/)
-
--   [How to use Canva to create awesome social media content](https://blog.hubspot.com/marketing/how-to-use-canva)
+- [Buffer's (general) guide to SMM](https://buffer.com/social-media-marketing)
+- [Facebook marketing](https://blog.hootsuite.com/facebook-marketing-tips/)
+- [Twitter marketing](https://blog.hootsuite.com/twitter-marketing/)
+- [Reddit marketing](https://www.socialmediaexaminer.com/how-to-market-reddit-guide-businesses/)
+- [Pinterest marketing](https://neilpatel.com/blog/ultimate-pinterest-marketing-guide/)
+- [How to use Canva to create awesome social media content](https://blog.hubspot.com/marketing/how-to-use-canva)
 
 Learn Copywriting
 -----------------
@@ -442,26 +396,18 @@ Learn Copywriting
 Yes, yes, copywriting is NOT exactly digital marketing.
 
 It is, however, an ESSENTIAL skill for, well, just about any digital marketing channel we've mentioned so far.
-
--   Doing content marketing? You need to be able to write good copy.
-
--   SEO? Same thing. The more engaging your content, the more likely it is to rank.
-
--   Search ads & other PPC channels? Same. After all, no one's going to click your ad if the headline isn't compelling.
+- Doing content marketing? You need to be able to write good copy.
+- SEO? Same thing. The more engaging your content, the more likely it is to rank.
+- Search ads & other PPC channels? Same. After all, no one's going to click your ad if the headline isn't compelling.
 
 So, we decided to include copywriting in the guide.
 
 For those of you that are new to digital marketing, copywriting means writing copy that sells. For example:
-
--   Landing page content
-
--   Sales pages
-
--   Email marketing copy
-
--   Ad copies (for all things PPC)
-
--   [Direct response sales letters](https://expresswriters.com/what-is-direct-response-copywriting/)
+- Landing page content
+- Sales pages
+- Email marketing copy
+- Ad copies (for all things PPC)
+- [Direct response sales letters](https://expresswriters.com/what-is-direct-response-copywriting/)
 
 Unlike most of the other digital marketing channels we've covered, learning copywriting isn't as straightforward.
 
@@ -471,70 +417,47 @@ Unfortunately, it takes a lot of reading, time, and practice. To get started, ho
 
 Copywriting Learning Path
 -------------------------
-
--   [Copywriting 101 by QuickSprout](http://www.quicksprout.com/2013/10/07/the-definitive-guide-to-copywriting/). While nothing too exceptional, it's a good start.
-
--   This Reddit post on [how to become a copywriter](https://www.reddit.com/r/Entrepreneur/comments/5wx2t1/so_you_wanna_become_a_copywriter_heres_my_advice/)
-
--   Some guy on Reddit created/posted one of the[best copywriting video guides](https://www.reddit.com/r/Entrepreneur/comments/cnk1rx/six_months_ago_i_wrote_a_popular_post_on/) we've seen on the web. Tl;dr, the guy created a course to teach his sister copywriting and shared it with the world on [r/entrepreneur](https://www.reddit.com/r/entrepreneur/)
-
--   [Ultimate Sales Letter by Dan Kennedy](https://www.amazon.com/Ultimate-Sales-Letter-Attract-Customers/dp/1440511411). One of the most popular copywriting classics.
-
--   [21 top copywriting formulas](https://copyranger.com/21-incredible-copywriting-formulas-i-use/) you can use for plug-and-play.
-
--   [How to land copywriting clients w/ no experience](https://freelancetowin.com/how-to-become-a-copywriter/)
+- [Copywriting 101 by QuickSprout](http://www.quicksprout.com/2013/10/07/the-definitive-guide-to-copywriting/). While nothing too exceptional, it's a good start.
+- This Reddit post on [how to become a copywriter](https://www.reddit.com/r/Entrepreneur/comments/5wx2t1/so_you_wanna_become_a_copywriter_heres_my_advice/)
+- Some guy on Reddit created/posted one of the[best copywriting video guides](https://www.reddit.com/r/Entrepreneur/comments/cnk1rx/six_months_ago_i_wrote_a_popular_post_on/) we've seen on the web. Tl;dr, the guy created a course to teach his sister copywriting and shared it with the world on [r/entrepreneur](https://www.reddit.com/r/entrepreneur/)
+- [Ultimate Sales Letter by Dan Kennedy](https://www.amazon.com/Ultimate-Sales-Letter-Attract-Customers/dp/1440511411). One of the most popular copywriting classics.
+- [21 top copywriting formulas](https://copyranger.com/21-incredible-copywriting-formulas-i-use/) you can use for plug-and-play.
+- [How to land copywriting clients w/ no experience](https://freelancetowin.com/how-to-become-a-copywriter/)
 
 As for top blogs/resources, here's what we recommend:
 
--   [CopyBlogger](https://copyblogger.com/)
+- [CopyBlogger](https://copyblogger.com/)
+- [CopyHackers](http://copyhackers.com/)
+- [The Gary Halbert Letter](http://www.thegaryhalbertletter.com/)
 
--   [CopyHackers](http://copyhackers.com/)
-
--   [The Gary Halbert Letter](http://www.thegaryhalbertletter.com/)
-
-Learn Email Marketing
----------------------
+## Learn Email Marketing
 
 Email marketing is a digital marketing strategy that involves sending emails to prospects or existing customers.
 
 The goal of every email marketing campaign is usually one of the following:
-
--   Turn email readers into customers
-
--   Upsell new products or services to existing customer base
-
--   Retain your reader base with interesting/informative content
+- Turn email readers into customers
+- Upsell new products or services to existing customer base
+- Retain your reader base with interesting/informative content
 
 And the To-Dos of an email marketer usually include:
-
--   Sending a weekly newsletter to blog readers
-
--   Notifying users/newsletter subscribers about new products or services
-
--   Figuring out how to increase blog reader-to-email subscriber conversions
-
--   Analyzing campaign performance and making adjustments as needed
-
--   A/B testing different emails/subject lines
+- Sending a weekly newsletter to blog readers
+- Notifying users/newsletter subscribers about new products or services
+- Figuring out how to increase blog reader-to-email subscriber conversions
+- Analyzing campaign performance and making adjustments as needed
+- A/B testing different emails/subject lines
 
 If you want to learn how to do email marketing, here's what we recommend:
 
 Email Marketing Learning Path
 -----------------------------
-
--   As usual, learn the basics.
+- As usual, learn the basics.
 
     -   OptIn monster has an [awesome beginner's guide to email marketing](https://optinmonster.com/beginners-guide-to-email-marketing/)
-
--   Learn some copywriting. Yeah, you can't get away from this one. If you want to be a good email marketer, you need to know how to write well-converting emails. Check the previous section ("Learn Copywriting") for more info on how.
-
--   [Learn how to grow an email list](https://blog.hubspot.com/blog/tabid/6307/bid/32028/25-Clever-Ways-to-Grow-Your-Email-Marketing-List.aspx)
-
--   [How to write clickable subject lines](https://unbounce.com/email-marketing/perfect-subject-line/)
-
--   [What are lead magnets / how they work](https://cxl.com/blog/lead-magnets-email-list-building-on-steroids/)
-
--   [Learn how to set up email sequences](https://webprofits.agency/blog/ultimate-guide-email-sequences/)
+- Learn some copywriting. Yeah, you can't get away from this one. If you want to be a good email marketer, you need to know how to write well-converting emails. Check the previous section ("Learn Copywriting") for more info on how.
+- [Learn how to grow an email list](https://blog.hubspot.com/blog/tabid/6307/bid/32028/25-Clever-Ways-to-Grow-Your-Email-Marketing-List.aspx)
+- [How to write clickable subject lines](https://unbounce.com/email-marketing/perfect-subject-line/)
+- [What are lead magnets / how they work](https://cxl.com/blog/lead-magnets-email-list-building-on-steroids/)
+- [Learn how to set up email sequences](https://webprofits.agency/blog/ultimate-guide-email-sequences/)
 
 Learn Web Analytics
 -------------------
@@ -542,30 +465,25 @@ Learn Web Analytics
 While analytics isn't exactly a channel, it's essential to know how to track your marketing campaigns.
 
 Here is some basic stuff you HAVE TO know:
-
--   Learn Google Analytics (GA). W/ digital marketing, GA is your primary data hub. This is where you keep track of traffic, conversions, user flow, and whatever else. To learn how to use it, check out:
+- Learn Google Analytics (GA). W/ digital marketing, GA is your primary data hub. This is where you keep track of traffic, conversions, user flow, and whatever else. To learn how to use it, check out:
 
     -   [Google Analytics for Beginners](https://analytics.google.com/analytics/academy/course/6)
 
     -   [Advanced Google Analytics](https://analytics.google.com/analytics/academy/course/7)
 
     -   [Google Analytics for Power Users](https://analytics.google.com/analytics/academy/course/9)
-
--   If you want to take your analytics game to the next level, you should also learn how to use Google Tag Manager (GTM). You can use GTM to set up conversion tracking by channel, and a ton of other stuff.
+- If you want to take your analytics game to the next level, you should also learn how to use Google Tag Manager (GTM). You can use GTM to set up conversion tracking by channel, and a ton of other stuff.
 
     -   [Google Tag Manager Course](https://analytics.google.com/analytics/academy/course/5)
-
--   Planning on learning Analytics for SEO? Make sure to learn how to use the Search Console. That's your central hub to keep track of all your organic traffic.
+- Planning on learning Analytics for SEO? Make sure to learn how to use the Search Console. That's your central hub to keep track of all your organic traffic.
 
     -   [Ultimate Guide to Search Console](https://blog.hubspot.com/marketing/google-search-console)
 
     -   [Beginner's Guide to Search Console](https://moz.com/blog/a-beginners-guide-to-the-google-search-console)
-
--   Working with clients? You'll need to know how to use Google Data Studio. It allows you to pull whatever data you need from GA and Search console to create super easy to use reports.
+- Working with clients? You'll need to know how to use Google Data Studio. It allows you to pull whatever data you need from GA and Search console to create super easy to use reports.
 
     -   [How to Use Data Studio](https://analytics.google.com/analytics/academy/course/10)
-
--   At some point, you'll need to track all of your marketing campaigns. You can do that with UTM tags.
+- At some point, you'll need to track all of your marketing campaigns. You can do that with UTM tags.
 
     -   [Buffer's Guide to UTM Codes](https://buffer.com/library/utm-guide)
 
@@ -577,3 +495,46 @@ TL;DR
 Hope you guys found this useful. This isn't 100% comprehensive since we haven't read literally everything ever, but most of the guides/content we've covered are the stuff we've personally used and think are awesome.
 
 If you guys have any other top stuff you think we should add to the list, let us know
+
+## Tiếng Anh Chuyên Ngành
+
+**Khối kiến thức theo khối ngành ngôn ngữ: Kỹ năng tiếng Anh- 51 tín chỉ**
+
+Cần học Tiếng Anh để tự nâng cao kĩ năng chuyên ngành là một điều cần thiết
+
+
+## Tài nguyên
+
+Nơi tổng hợp các tài nguyên học liên quan đến chuyên ngành
+
+
+
+https://www.reddit.com/r/marketing/comments/ut082b/21_effective_marketing_resources_you_need/
+
+
+https://www.reddit.com/r/marketing/comments/v04ts0/the_list_of_free_resources_i_found_in_2022_to/
+
+
+https://www.reddit.com/r/Entrepreneur/comments/flym8l/we_just_compiled_a_huge_list_of_learning/
+https://www.reddit.com/r/Entrepreneur/comments/flym8l/we_just_compiled_a_huge_list_of_learning/
+There's lots of great resources out there for digital marketing. Since it's a pretty wide topic, here's a couple you can check out as starting points:
+- Google Skillshop: <https://skillshop.withgoogle.com/>
+- Moz Blog: <https://moz.com/blog>
+- Unbounce Conversion Intelligence Blog: <https://unbounce.com/blog/>
+- Content Marketing Institute: <https://contentmarketinginstitute.com/>
+- Skillshare: <https://www.skillshare.com/browse/digital-marketing>
+- Drift: <https://www.drift.com/blog/>
+- Newsletters you can subscribe to: Hiten Shah's SaaS Weekly, The Daily Carnage, The Hustle.
+
+Other than that, also recommend following and/or having informal chats with digital marketers. Slack groups are a great place for this (and obviously communities like Reddit).
+
+If you're looking to learn a particular area of digital marketing, let me know. Happy to share more resources depending on what you're interested in.
+
+https://www.reddit.com/r/marketing/comments/ut082b/21_effective_marketing_resources_you_need/
+
+
+https://www.reddit.com/r/marketing/comments/v04ts0/the_list_of_free_resources_i_found_in_2022_to/
+
+
+https://www.reddit.com/r/Entrepreneur/comments/flym8l/we_just_compiled_a_huge_list_of_learning/
+

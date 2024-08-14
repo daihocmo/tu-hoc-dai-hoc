@@ -1,1 +1,0 @@
-# Chương trình tự học Vật lý bậc đại học
