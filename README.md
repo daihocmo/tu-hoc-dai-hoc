@@ -4,6 +4,12 @@ CẬP NHẬT: Trang đã được _tạm thời_ cập nhật.
 
 Trang sẽ được chuyển sang thành kho tổng hợp tài nguyên cho RẤT NHIỀU THỨ. 
 
+Nguồn tài nguyên ở dưới đây thì gần 100% là Tiếng Anh. Nếu bác mất gốc hoặc muốn học lại từ đầu hoặc học để cải thiện thêm thì:
+
+- [Lộ trình lấy gốc 160 ngày](https://daihocmo.github.io/tu-luyen-tieng-anh/) 
+- [Hướng dẫn học Tiếng Anh chuyên ngành](https://daihocmo.github.io/tieng-anh-chuyen-nganh/)
+- [Tham gia Discord nếu bạn có thắc mắc hoặc mún hỏi gì đó](https://discord.com/invite/fbHbQSwzpD)
+
 ## Các kho lưu trữ tài nguyên chung
 ### Chung
 - [lists](https://github.com/jnv/lists) - Một siêu danh sách tổng hợp **RẤT NHIỀU THỨ**
@@ -27,6 +33,8 @@ Trang sẽ được chuyển sang thành kho tổng hợp tài nguyên cho RẤT
 - [Awesome Roadmaps](https://github.com/liuchong/awesome-roadmaps) - Tổng hợp lộ trình cho các mảng riêng của lập trình.
 
 ## Khối ngành công nghệ thông tin
+[Hướng dẫn học Tiếng Anh chuyên ngành](https://daihocmo.github.io/tieng-anh-chuyen-nganh/) và tìm nội dung ở [trang này](https://daihocmo.github.io/tieng-anh-chuyen-nganh/docs/compsci.html)
+
 - Khoa học máy tính: 
     + [TeachYourselfCS](https://teachyourselfcs.com/) - Tự dạy mình Khoa học máy tính 
     + [computer-science - OSSU](https://cs.ossu.dev/) - Tự dạy mình Khoa học máy tính, nhưng thiết kế theo giáo trình bậc đại học. 
@@ -63,6 +71,9 @@ Trang sẽ được chuyển sang thành kho tổng hợp tài nguyên cho RẤT
     + [Clinical Psychology](./lo-trinh/clinical-psychology.md): Gợi ý mình lấy trên Reddit. Các khóa học các bạn hoàn toàn có thể xem trên OCW (OpenCourseWave).
 
 ## Khối ngành Kinh tế
+[Hướng dẫn học Tiếng Anh chuyên ngành](https://daihocmo.github.io/tieng-anh-chuyen-nganh/) và tìm nội dung cho
+- [Kinh tế](https://daihocmo.github.io/tieng-anh-chuyen-nganh/docs/business.html)
+- [Marketing](https://daihocmo.github.io/tieng-anh-chuyen-nganh/docs/marketing.html)
 
 - Kinh tế học:
     + [MOOC for MBA](https://github.com/benedictusdps/MOOC-MBA) - Đây là kho tổng hợp các khóa học MOOC từ các trường đại học lớn trên thế giới.
@@ -73,6 +84,8 @@ Trang sẽ được chuyển sang thành kho tổng hợp tài nguyên cho RẤT
 - [Places To Post Your Startup](https://github.com/mmccaff/PlacesToPostYourStartup)
 
 ## Khối ngành nghệ thuật - đồ họa
+[Hướng dẫn học Tiếng Anh chuyên ngành](https://daihocmo.github.io/tieng-anh-chuyen-nganh/) và tìm nội dung ở [trang cho dân thiết kế đồ họa này](https://daihocmo.github.io/tieng-anh-chuyen-nganh/docs/do-hoa.html)
+
 - Thiết kế đồ họa
     + [Lộ trình Thiết kế đồ họa](./lo-trinh/thiet-ke-do-hoa.md)
     + [Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources)
