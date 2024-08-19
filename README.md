@@ -1,6 +1,10 @@
 # Tổng hợp lộ trình tự học đại học các ngành
 
-CẬP NHẬT: Trang đã được _tạm thời_ cập nhật. 
+## Cộng đồng Discord để trao đổi thảo luận các vấn đề liên quan
+- [Tham gia Discord bằng cách bấm vào đường dẫn này](https://discord.gg/ZyEn4TTyEM)
+
+## Thông báo & Cập nhật
+Trang đã được _tạm thời_ cập nhật (08/2024). 
 
 Trang sẽ được chuyển sang thành kho tổng hợp tài nguyên cho RẤT NHIỀU THỨ. 
 
@@ -8,7 +12,7 @@ Nguồn tài nguyên ở dưới đây thì gần 100% là Tiếng Anh. Nếu b�
 
 - [Lộ trình lấy gốc 160 ngày](https://daihocmo.github.io/tu-luyen-tieng-anh/) 
 - [Hướng dẫn học Tiếng Anh chuyên ngành](https://daihocmo.github.io/tieng-anh-chuyen-nganh/)
-- [Tham gia Discord nếu bạn có thắc mắc hoặc mún hỏi gì đó](https://discord.com/invite/fbHbQSwzpD)
+- [Tham gia Discord nếu bạn có thắc mắc hoặc mún hỏi gì đó](https://discord.gg/ZyEn4TTyEM)
 
 ## Các kho lưu trữ tài nguyên chung
 ### Chung
