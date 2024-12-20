@@ -1,0 +1,42 @@
+site_name: Tự học đại học tại nhà - khá là nhiều ngành học
+site_description: Một trang hướng dẫn tự học đại học ngay tại nhà cho rất nhiều ngành thông qua các nguồn tài nguyên miễn phí trên Internet
+site_author: duykhanh471  
+
+nav:
+  - 'Tư học đại học': index.md
+  - 'Cộng đồng & Tài nguyên học': cong-dong-tai-nguyen.md 
+
+theme:
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: grey
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: grey
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - toc.follow
+    - search.highlighting
+    - search.share
+    - search.suggest
+  name: material
+  
+plugins:
+  - search
+  # - open-in-new-tab
+
+extra:
+  generator: false

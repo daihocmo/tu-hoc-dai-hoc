@@ -1,15 +1,16 @@
-# Tổng hợp lộ trình tự học đại học các ngành
-Một trang hướng dẫn tự học đại học ngay tại nhà cho rất nhiều ngành
+---
+title: Tự học đại học
+description: Tự học các chuyên ngành học đại học thông qua hướng dẫn, lộ trình và các nguồn tài nguyên miễn phí trên Internet
+hide:
+  - navigation
+---
 
-## Thông báo & Cập nhật
+# Tự học đại học
 
-> [!IMPORTANT]  
-> Trang đã được cập nhật và bạn có thể truy cập [Hướng dẫn tự học đại học](https://daihocmo.github.io/tu-hoc-dai-hoc/) để đọc thêm.
+## Tự học Tiếng Anh chuyên ngành
 
-
-- [Lộ trình lấy gốc 160 ngày](https://daihocmo.github.io/tu-luyen-tieng-anh/) 
-- [Hướng dẫn học Tiếng Anh chuyên ngành](https://daihocmo.github.io/tieng-anh-chuyen-nganh/)
-- [Tham gia Discord nếu bạn có thắc mắc hoặc mún hỏi gì đó](https://discord.gg/ZyEn4TTyEM)
+1. Tự bắt đầu học Tiếng Anh tại nhà thông qua hướng dẫn [Một hướng dẫn học Tiếng Anh](https://daihocmo.github.io/tieng-anh/guide)
+2. Đọc [hướng dẫn học Tiếng Anh chuyên ngành](https://daihocmo.github.io/tieng-anh-chuyen-nganh/)
 
 ## Các kho lưu trữ tài nguyên chung
 ### Chung
