@@ -3,7 +3,7 @@ site_description: Một trang hướng dẫn tự học đại học ngay tại 
 site_author: duykhanh471  
 
 nav:
-  - 'Tư học đại học': index.md
+  - 'Trang chủ': index.md
   - 'Cộng đồng & Tài nguyên học': cong-dong-tai-nguyen.md 
 
 theme:

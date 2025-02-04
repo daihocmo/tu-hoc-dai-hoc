@@ -1,4 +1,5 @@
 # Lộ trình đào tạo ngành Thiết kế đồ họa
++ [Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources)
 
 Lộ trình Tiếng Anh được làm bởi [CIS Team](https://www.facebook.com/cisteam15/) 
 
