@@ -26,8 +26,8 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
   features:
-    - navigation.tabs
-    - navigation.sections
+    - navigation.instant
+    - navigation.instant.progress
     - toc.follow
     - search.highlighting
     - search.share
@@ -36,7 +36,7 @@ theme:
   
 plugins:
   - search
-  # - open-in-new-tab
+  - open-in-new-tab
 
 extra:
   generator: false
