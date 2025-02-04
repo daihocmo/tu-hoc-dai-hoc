@@ -1,11 +1,16 @@
 # Tổng hợp lộ trình tự học đại học các ngành
 Một trang hướng dẫn tự học đại học ngay tại nhà cho rất nhiều ngành
 
+
+## Giới thiệu
+Là một trang tổng hợp hướng dẫn học, lộ trình và tài nguyên tự học cho rất nhiều ngành đại học, hoàn toàn miễn phí.
+
 ## Thông báo & Cập nhật
 
 > [!IMPORTANT]  
 > Trang đã được cập nhật và bạn có thể truy cập [Hướng dẫn tự học đại học](https://daihocmo.github.io/tu-hoc-dai-hoc/) để đọc thêm.
-
+> 
+> Trang README lưu trữ phiên bản cũ của trang.
 
 - [Lộ trình lấy gốc 160 ngày](https://daihocmo.github.io/tu-luyen-tieng-anh/) 
 - [Hướng dẫn học Tiếng Anh chuyên ngành](https://daihocmo.github.io/tieng-anh-chuyen-nganh/)

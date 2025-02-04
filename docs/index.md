@@ -1,11 +1,12 @@
 ---
 title: Tự học đại học
 description: Tự học các chuyên ngành học đại học thông qua hướng dẫn, lộ trình và các nguồn tài nguyên miễn phí trên Internet
-hide:
-  - navigation
 ---
 
 # Tự học đại học
+Đây là một chương trình hướng dẫn tự học rất nhiều ngành đại học ngay tại nhà. Hiện tại vẫn đang trong quá trình xây dựng!
+
+Mọi người có thể đóng góp để cải thiện trang trên [Khu học mở](https://daihocmo.github.io/) nha.
 
 ## Các chương trình học
 ### Nghệ thuật

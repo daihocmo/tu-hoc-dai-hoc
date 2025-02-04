@@ -3,13 +3,6 @@
 
 Lộ trình Tiếng Anh được làm bởi [CIS Team](https://www.facebook.com/cisteam15/) 
 
-## Bảng chỉ mục
-
-- [Cộng đồng](#cộng-đồng)
-- [Lộ trình học](#lộ-trình-học)
-- [Tiếng Anh chuyên ngành](#tiếng-anh-chuyên-ngành)
-- [Tài nguyên](#tài-nguyên)
-
 ## Cộng đồng
 
 Danh sách được liệt kê có thể là cộng đồng hoặc diễn dàn.
