@@ -1,4 +1,4 @@
-site_name: Tự học đại học tại nhà - khá là nhiều ngành học
+site_name: Đại học nhà làm - Khu học mở
 site_description: Một trang hướng dẫn tự học đại học ngay tại nhà cho rất nhiều ngành thông qua các nguồn tài nguyên miễn phí trên Internet
 site_author: duykhanh471  
 repo_name: Cùng xây dựng chương trình học
@@ -7,29 +7,46 @@ repo_url: https://github.com/daihocmo/tu-hoc-dai-hoc
 nav:
   - 'Trang chủ': index.md
   - 'Nghệ thuật':
-    - 'Hội họa': 'nghe-thuat/hoi-hoa.md'
+    - 'Hội họa': 
+      - 'Giới thiệu': 'nghe-thuat/hoi-hoa/index.md'
+      - 'Bài nhập môn': 'nghe-thuat/hoi-hoa/nhap-mon.md'
+      - 'Giáo trình': 'nghe-thuat/hoi-hoa/giao-trinh.md'
+      - 'Tài nguyên': 'nghe-thuat/hoi-hoa/tai-nguyen.md'
     - 'Điêu khắc': 'nghe-thuat/dieu-khac.md'
     - 'Âm nhạc học': 'nghe-thuat/am-nhac.md'
     - 'Nhiếp ảnh': 'nghe-thuat/nhiep-anh.md'
     - 'Thiết kế đồ họa': 'nghe-thuat/thiet-ke-do-hoa/index.md'
   - 'Nhóm ngành Nhân văn':
-      - 'Ngôn ngữ học': 'nhan-van/ngoai-ngu.md'
-      - 'Ngôn ngữ Anh': 'nhan-van/tieng-anh.md'
+      - 'Tự học ngôn ngữ': 'nhan-van/ngoai-ngu.md'
       - 'Ngôn ngữ Nga': 'nhan-van/tieng-nga.md'
       - 'Ngôn ngữ Pháp': 'nhan-van/tieng-phap.md'
-      - 'Ngôn ngữ Trung Quốc': 'nhan-van/tieng-trung.md'
       - 'Ngôn ngữ Đức': 'nhan-van/tieng-duc.md'
       - 'Ngôn ngữ Tây Ban Nha': 'nhan-van/tieng-tbn.md'
       - 'Ngôn ngữ Bồ Đào Nha': 'nhan-van/tieng-bdn.md'
       - 'Ngôn ngữ Italia': 'nhan-van/tieng-y.md'
-      - 'Ngôn ngữ Nhật': 'nhan-van/tieng-nhat.md'
       - 'Ngôn ngữ Hàn Quốc': 'nhan-van/tieng-han.md'
       - 'Ngôn ngữ Thái Lan': 'nhan-van/tieng-thai.md'
-      - 'Tiếng Việt': 'nhan-van/tieng-viet.md'
       - 'Sáng tác văn học': 'nhan-van/sang-tac-van-hoc.md'
       - 'Triết học': 'nhan-van/triet-hoc.md'
-      - 'Tôn giáo học': 'nhan-van/ton-giao-hoc.md'
-      - 'Lịch sử': 'nhan-van/lich-su.md'
+      - 'Tôn giáo học': 
+        - 'Nhập môn': 'nhan-van/ton-giao-hoc/index.md'
+        - 'Giáo trình': 'nhan-van/ton-giao-hoc/giao-trinh.md'
+      - 'Lịch sử':   
+        - 'Giáo trình': 'nhan-van/lich-su/index.md'
+        - 'Lịch sử Việt Nam':
+          - 'Lộ trình lịch sử': 'nhan-van/lich-su/qua-trinh-lich-su-viet-nam.md'
+        - 'Lịch sử thế giới':
+          - 'Châu Á': 'nhan-van/lich-su/chau-a.md'
+          - 'Châu Âu': 'nhan-van/lich-su/chau-au.md'
+          - 'Châu Phi': 'nhan-van/lich-su/chau-phi.md'
+          - 'Châu Mĩ': 'nhan-van/lich-su/chau-mi.md'
+        - 'Lịch sử cổ đại':
+          - 'Ai Cập cổ đại': 'nhan-van/lich-su/ai-cap-co-dai.md'
+          - 'Hy Lạp cổ đại': 'nhan-van/lich-su/hy-lap-co-dai.md'
+          - 'Persia cổ đại': 'nhan-van/lich-su/persia-co-dai.md'
+          - 'Rome': 'nhan-van/lich-su/rome.md'
+          - 'Thời trung cổ': 'nhan-van/lich-su/lich-su-trung-co.md'
+        - 'Tài nguyên học': 'nhan-van/lich-su/tai-nguyen-hoc.md'
   - 'Khoa học xã hội và hành vi':
       - 'Xã hội học': 'khoa-hoc-xa-hoi/xa-hoi-hoc.md'
       - 'Nhân học': 'khoa-hoc-xa-hoi/nhan-hoc.md'
@@ -58,7 +75,7 @@ nav:
       - 'Toán học': 'toan-va-thong-ke/toan-hoc.md'
       - 'Khoa học dữ liệu': 'toan-va-thong-ke/khoa-hoc-du-lieu.md'
       - 'Thống kê': 'toan-va-thong-ke/thong-ke.md'
-  - 'Máy tính và công nghệ thông tin':
+  - 'Khoa học máy tính':
       - 'Khoa học máy tính': 'cong-nghe/khoa-hoc-may-tinh.md'
       - 'An toàn thông tin': 'cong-nghe/an-toan-thong-tin.md'
   - 'Sản xuất, chế biến':
@@ -107,5 +124,22 @@ plugins:
   - search
   - open-in-new-tab
 
+markdown_extensions:
+  - meta
+  - admonition
+  - attr_list
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.details
+  - pymdownx.keys
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - toc:
+      permalink: true
+      
+      
 extra:
   generator: false

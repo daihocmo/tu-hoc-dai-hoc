@@ -10,7 +10,7 @@ Mọi người có thể đóng góp để cải thiện trang trên [Khu học 
 
 ## Các chương trình học
 ### Nghệ thuật
-- [Hội họa](nghe-thuat/hoi-hoa.md)
+- [Hội họa](nghe-thuat/hoi-hoa/index.md)
 - [Điêu khắc](nghe-thuat/dieu-khac.md)
 - [Âm nhạc học](nghe-thuat/am-nhac.md)
 - [Nhiếp ảnh](nghe-thuat/nhiep-anh.md)
@@ -18,23 +18,27 @@ Mọi người có thể đóng góp để cải thiện trang trên [Khu học 
 
 ### Nhóm ngành Nhân văn
 
-- [Ngôn ngữ học](nhan-van/ngoai-ngu.md)
-- [Ngôn ngữ Anh](nhan-van/tieng-anh.md)
+#### Các ngôn ngữ đã được Khu học mở tạo trang riêng
+
+-   [Hướng dẫn tự học ngoại ngữ](https://daihocmo.github.io/ngoai-ngu/) - Điểm khởi đầu của việc bắt đầu tự học ngoại ngữ.
+-   [Tiếng Anh](https://daihocmo.github.io/tieng-anh/) - Hướng dẫn tự học Tiếng Anh
+-   [Tiếng Nhật](https://daihocmo.github.io/tieng-nhat/) - 日本語上手
+-   [Tiếng Trung](https://daihocmo.github.io/tieng-trung/) - Hướng dẫn tự học Tiếng Trung
+-   [Tiếng Việt](https://daihocmo.github.io/learn-vietnamese/) - Hướng dẫn học Tiếng Việt cho người nước ngoài
+
+#### Các ngôn ngữ còn lại
 - [Ngôn ngữ Nga](nhan-van/tieng-nga.md)
 - [Ngôn ngữ Pháp](nhan-van/tieng-phap.md)
-- [Ngôn ngữ Trung Quốc](nhan-van/tieng-trung.md)
 - [Ngôn ngữ Đức](nhan-van/tieng-duc.md)
 - [Ngôn ngữ Tây Ban Nha](nhan-van/tieng-tbn.md)
 - [Ngôn ngữ Bồ Đào Nha](nhan-van/tieng-bdn.md)
 - [Ngôn ngữ Italia](nhan-van/tieng-y.md)
-- [Ngôn ngữ Nhật](nhan-van/tieng-nhat.md)
 - [Ngôn ngữ Hàn Quốc](nhan-van/tieng-han.md)
 - [Ngôn ngữ Thái Lan](nhan-van/tieng-thai.md)
-- [Tiếng Việt](nhan-van/tieng-viet.md)
 - [Sáng tác văn học](nhan-van/sang-tac-van-hoc.md)
 - [Triết học](nhan-van/triet-hoc.md)
-- [Tôn giáo học](nhan-van/ton-giao-hoc.md)
-- [Lịch sử](nhan-van/lich-su.md)
+- [Tôn giáo học](nhan-van/ton-giao-hoc/index.md) - Đang được khởi công
+- [Lịch sử](nhan-van/lich-su/index.md)
 
 ### Khoa học xã hội và hành vi
 
@@ -75,7 +79,7 @@ Mọi người có thể đóng góp để cải thiện trang trên [Khu học 
 
 ### Máy tính và công nghệ thông tin
 
-- [Khoa học máy tính](cong-nghe/khoa-hoc-may-tinh.md)
+- [Khoa học máy tính](https://daihocmo.github.io/khoa-hoc-may-tinh/khmt/)
 - [An toàn thông tin](cong-nghe/an-toan-thong-tin.md)
 
 ### Sản xuất, chế biến
