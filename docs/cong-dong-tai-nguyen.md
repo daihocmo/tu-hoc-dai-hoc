@@ -1,8 +1,3 @@
----
-hide:
-  - navigation
----
-
 # Các cộng đồng & tài nguyên học
 
 Bạn có thể tìm được rất nhiều các cộng đồng để có thể học hỏi (Thường là Tiếng Anh, hiện tại mình vẫn chưa tìm được cộng đồng Tiếng Việt nào tốt).
@@ -22,7 +17,7 @@ Bạn có thể tìm được rất nhiều các cộng đồng để có thể 
 - [Discord của Khu học mở](https://discord.gg/ZyEn4TTyEM) - Hiện tại đang mở để xây dựng Khu học mở cho các chuyên ngành khác nhau và không chuyên hẳn về việc học.
 
 
-### Không gợi ý các nền tảng như 
+### Không gợi ý các nền tảng như
 Danh sách bao gồm (Các nền tảng không nhất thiết là hỗ trợ các nhóm học tập):
 
 #### Facebook

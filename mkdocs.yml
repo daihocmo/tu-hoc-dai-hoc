@@ -123,22 +123,6 @@ theme:
 plugins:
   - search
   - open-in-new-tab
-
-markdown_extensions:
-  - meta
-  - admonition
-  - attr_list
-  - pymdownx.critic
-  - pymdownx.caret
-  - pymdownx.mark
-  - pymdownx.tilde
-  - pymdownx.details
-  - pymdownx.keys
-  - pymdownx.superfences
-  - pymdownx.tabbed:
-      alternate_style: true
-  - toc:
-      permalink: true
       
       
 extra:
