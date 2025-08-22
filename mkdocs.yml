@@ -1,7 +1,7 @@
 site_name: Tự học đại học - Khu học mở
 site_description: Một trang hướng dẫn tự học đại học ngay tại nhà cho rất nhiều ngành thông qua các nguồn tài nguyên miễn phí trên Internet
 site_author: duykhanh471  
-repo_name: Cùng xây dựng chương trình học
+repo_name: Đóng góp & chỉnh sửa trang
 repo_url: https://github.com/daihocmo/tu-hoc-dai-hoc
 
 nav:
@@ -42,7 +42,7 @@ nav:
       - 'Xã hội học': 'khoa-hoc-xa-hoi/xa-hoi-hoc.md'
       - 'Nhân học': 'khoa-hoc-xa-hoi/nhan-hoc.md'
       - 'Tâm lý học': 'khoa-hoc-xa-hoi/tam-ly-hoc.md'
-      - 'Tâm lý học giáo dục': 'khoa-hoc-xa-hoi/tam-ly-hoc-giao-duc.md'
+      - 'Tâm lý học lâm sàng': 'khoa-hoc-xa-hoi/tam-ly-hoc-lam-sang.md'
       - 'Quốc tế học': 'khoa-hoc-xa-hoi/quoc-te-hoc.md'
   - 'Báo chí và thông tin':
       - 'Báo chí': 'bao-chi-thong-tin/bao-chi.md'
@@ -56,7 +56,6 @@ nav:
       - 'Kế toán': 'kinh-doanh/ke-toan.md'
       - 'Quản lý dự án': 'kinh-doanh/quan-ly-du-an.md'
   - 'Khoa học sự sống':
-      - 'Sinh học': 'khoa-hoc-su-song/sinh-hoc.md'
       - 'Công nghệ Sinh học': 'khoa-hoc-su-song/cong-nghe-sinh-hoc.md'
   - 'Khoa học tự nhiên':
       - 'Vật lý học': 'khoa-hoc-tu-nhien/vat-ly-hoc.md'
@@ -75,13 +74,14 @@ nav:
       - 'Kiến trúc': 'kien-truc-xay-dung/kien-truc.md'
       - 'Thiết kế nội thất': 'kien-truc-xay-dung/thiet-ke-noi-that.md'
   - 'Nông, lâm nghiệp, thủy sản':
-      - 'Nông nghiệp': 'nong-lam-thuy-san/nong-nghiep.md'
+      - 'Khoa học nông nghiệp': 'nong-lam-thuy-san/khoa-hoc-nong-nghiep.md'
+      - 'Lâm học': 'nong-lam-thuy-san/lam-nghiep.md'
   - 'Nhóm ngành Sức khỏe':
       - 'Y khoa': 'y-khoa/y-khoa.md'
       - 'Dinh dưỡng': 'y-khoa/dinh-duong.md'
+      - 'Y học cổ truyền': 'y-khoa/y-hoc-co-truyen.md'
   - 'Dịch vụ xã hội':
       - 'Công tác xã hội': 'dich-vu-xa-hoi/cong-tac-xa-hoi.md'
-      - 'Hỗ trợ giáo dục người khuyết tật': 'dich-vu-xa-hoi/giao-duc-nguoi-khuyet-tat.md'
   - 'Cộng đồng & Tài nguyên học': cong-dong-tai-nguyen.md 
 
 theme:

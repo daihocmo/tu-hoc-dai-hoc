@@ -270,7 +270,7 @@ Do đó, thứ tự được đề xuất của chúng tôi chủ yếu ở đó
 
 Khi hướng dẫn này được viết lần đầu tiên vào năm 2016, [Hướng dẫn phần mềm nguồn mở OSS](https://github.com/open-source-society/computer-science) có quá nhiều chủ đề, đề xuất nhiều tài liệu không tốt cho nhiều chủ đề, và không cung cấp lý do cụ thể về việc tại sao hoặc khía cạnh nào của các khóa học có giá trị. Chúng tôi đã cố gắng giới hạn danh sách các khóa học của mình mà bạn *thực sự nên biết* với tư cách là một kỹ sư phần mềm bất kể chuyên môn của bạn, và giúp bạn hiểu lý do tại sao mỗi khóa học được bao gồm. Trong những năm tiếp theo, "Hướng dẫn phần mềm nguồn mở OSS" đã được cải thiện, nhưng chúng tôi vẫn nghĩ rằng hướng dẫn này của chúng tôi cung cấp một con đường rõ ràng và gắn kết hơn.
 
-freeCodeCamp chủ yếu tập trung vào lập trình, không phải khoa học máy tính. Để biết lý do tại sao bạn có thể muốn học khoa học máy tính, hãy xem lại [ở trên](#tại-sao-phải-học-khoa-học-máy-tính). Nếu bạn chưa quen với lập trình, chúng tôi khuyên bạn nên ưu tiên làm điều đó và quay lại hướng dẫn này sau một hoặc hai năm.
+freeCodeCamp chủ yếu tập trung vào lập trình, không phải khoa học máy tính. Để biết lý do tại sao bạn có thể muốn học khoa học máy tính, hãy xem lại ở trên. Nếu bạn chưa quen với lập trình, chúng tôi khuyên bạn nên ưu tiên làm điều đó và quay lại hướng dẫn này sau một hoặc hai năm.
 
 #### Còn ngôn ngữ X thì sao?
 

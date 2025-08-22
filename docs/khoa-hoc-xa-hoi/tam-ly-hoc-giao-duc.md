@@ -1,3 +1,0 @@
-# Tâm lý học giáo dục
-
-Đang trong quá trình họàn thiện...
