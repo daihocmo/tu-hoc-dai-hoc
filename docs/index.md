@@ -9,6 +9,7 @@ description: Tự học các chuyên ngành học đại học thông qua hướ
 Mọi người có thể đóng góp để cải thiện trang trên [Khu học mở](https://daihocmo.github.io/) nha.
 
 ## Các chương trình học
+
 ### Nghệ thuật
 - [Hội họa](nghe-thuat/hoi-hoa/index.md)
 - [Điêu khắc](nghe-thuat/dieu-khac.md)
@@ -27,14 +28,7 @@ Mọi người có thể đóng góp để cải thiện trang trên [Khu học 
 -   [Tiếng Việt](https://daihocmo.github.io/learn-vietnamese/) - Hướng dẫn học Tiếng Việt cho người nước ngoài
 
 #### Các ngôn ngữ còn lại
-- [Ngôn ngữ Nga](nhan-van/tieng-nga.md)
-- [Ngôn ngữ Pháp](nhan-van/tieng-phap.md)
-- [Ngôn ngữ Đức](nhan-van/tieng-duc.md)
-- [Ngôn ngữ Tây Ban Nha](nhan-van/tieng-tbn.md)
-- [Ngôn ngữ Bồ Đào Nha](nhan-van/tieng-bdn.md)
-- [Ngôn ngữ Italia](nhan-van/tieng-y.md)
-- [Ngôn ngữ Hàn Quốc](nhan-van/tieng-han.md)
-- [Ngôn ngữ Thái Lan](nhan-van/tieng-thai.md)
+
 - [Sáng tác văn học](nhan-van/sang-tac-van-hoc.md)
 - [Triết học](nhan-van/triet-hoc.md)
 - [Tôn giáo học](nhan-van/ton-giao-hoc/index.md) - Đang được khởi công
@@ -62,6 +56,7 @@ Mọi người có thể đóng góp để cải thiện trang trên [Khu học 
 - [Quản lý dự án](kinh-doanh/quan-ly-du-an.md)
 
 ### Khoa học sự sống
+
 - [Sinh học](khoa-hoc-su-song/sinh-hoc.md)
 - [Công nghệ Sinh học](khoa-hoc-su-song/cong-nghe-sinh-hoc.md)
 
@@ -79,7 +74,7 @@ Mọi người có thể đóng góp để cải thiện trang trên [Khu học 
 
 ### Máy tính và công nghệ thông tin
 
-- [Khoa học máy tính](https://daihocmo.github.io/khoa-hoc-may-tinh/khmt/)
+- [Khoa học máy tính](https://daihocmo.github.io/lt-khmt/khmt)
 - [An toàn thông tin](cong-nghe/an-toan-thong-tin.md)
 
 ### Sản xuất, chế biến

@@ -13,7 +13,7 @@ Bản hướng dẫn này là nỗ lực của chúng tôi nhằm trả lời d�
 
 Hãy học cả 9 môn dưới đây, theo thứ tự gợi ý, bằng **sách giáo trình hoặc video**, lý tưởng nhất là cả hai. Mỗi môn nên đầu tư khoảng **100–200 giờ**, rồi sau này quay lại ôn tập khi cần – suốt cả sự nghiệp của bạn 🚀.
 
-| Chủ đề | Lý do cần học | Sách | Video bài giảng |
+<!-- | Chủ đề | Lý do cần học | Sách | Video bài giảng |
 | :------ | :--------- | :--- | :----- |
 | [Tiếng Anh](#tiếng-anh) | Việc học Tiếng Anh là điều bắt buộc cho việc học Khoa học máy tính hay trong thế giới hiện đại | Không giới hạn | Không giới hạn |
 | **[Lập trình](#lập-trình)**| Đừng là người “chưa bao giờ hiểu rõ” về một thứ như đệ quy.|*Cấu trúc và diễn giải các chương trình máy tính*|Brian Harvey's Berkeley CS 61A|
@@ -24,7 +24,7 @@ Hãy học cả 9 môn dưới đây, theo thứ tự gợi ý, bằng **sách g
 |**[Mạng máy tính](#mạng-máy-tính)**|Internet là một vấn đề lớn: bạn cần hiểu cách nó hoạt động để khai thác hết tiềm năng của nó.|*Mạng máy tính: một cách tiếp cận từ tầng trên xuống dưới*|Stanford CS 144|
 |**[Cơ sở dữ liệu](#cơ-sở-dữ-liệu)**|Dữ liệu là trọng tâm của hầu hết các chương trình quan trọng, nhưng ít người hiểu cách hệ thống cơ sở dữ liệu thực sự hoạt động.|*Đọc trong Hệ thống Cơ sở Dữ liệu*|Joe Hellerstein's Berkeley CS 186|
 |**[Ngôn ngữ và Trình biên dịch](#ngôn-ngữ-và-trình-biên-dịch)**|Nếu bạn hiểu cách ngôn ngữ và trình biên dịch thực sự hoạt động, bạn sẽ viết mã tốt hơn và học ngôn ngữ mới dễ dàng hơn.|*Tạo thông dịch viên*|Khóa học của Alex Aiken trên edX|
-|**[Hệ thống phân tán](#hệ-thống-phân-tán)**|Ngày nay, *hầu hết* hệ thống là phân tán.|*Thiết kế các ứng dụng chuyên sâu về dữ liệu* của Martin Kleppmann|MIT 6.824|
+|**[Hệ thống phân tán](#hệ-thống-phân-tán)**|Ngày nay, *hầu hết* hệ thống là phân tán.|*Thiết kế các ứng dụng chuyên sâu về dữ liệu* của Martin Kleppmann|MIT 6.824| -->
 
 ### Quá nhiều?
 
