@@ -24,7 +24,6 @@ Nhóm này giúp bạn **thực hành viết, sản xuất nội dung đa phươ
 | **Broadcasting & Multimedia**   | Kỹ năng viết, sản xuất video, audio, podcast, animation.   | - *Multimedia Journalism* – Andy Bull (Tiếng Anh)<br>- *Sản xuất chương trình truyền hình* – Nguyễn Văn Cường (Tiếng Việt, nếu có)   | 1. Làm 1–2 video tin ngắn hoặc podcast.<br>2. Tập dựng bằng phần mềm: Premiere, Audacity, After Effects.<br>3. Tập lồng nhạc, chèn text, dựng b-roll, animation cơ bản. |
 | **Applied Multimedia Communication**  | Kết hợp viết, ảnh, video, tương tác đa phương tiện.  | - *Digital Storytelling* – Bryan Alexander (Tiếng Anh)   | 1. Chọn 1 chủ đề và làm story đa phương tiện hoàn chỉnh (video + ảnh + text).<br>2. Xuất bản thử trên website/blog cá nhân.<br>3. Nhận xét và cải tiến theo phản hồi.   |
 
--
 
 ### **Nhóm 3: Kỹ năng nghiên cứu & báo chí dữ liệu**
 
@@ -35,8 +34,6 @@ Nhóm này trang bị kỹ năng **khảo sát, phân tích dữ liệu và áp 
 | **Phương pháp nghiên cứu báo chí (Research Methods)** | Khảo sát, phỏng vấn, nghiên cứu định lượng & định tính, phân tích dữ liệu cơ bản. | - *Research Methods for Journalists* – David Deacon (Tiếng Anh)<br>- *Phương pháp nghiên cứu báo chí* – Nguyễn Thị Thu Hương (Tiếng Việt) | 1. Tập viết câu hỏi khảo sát, checklist phỏng vấn.<br>2. Thực hành thu thập dữ liệu (online hoặc offline).<br>3. Phân tích dữ liệu & trình bày kết quả dạng báo cáo nhỏ. |
 | **Public Affairs / Data Journalism**  | Thu thập, xử lý, trực quan hóa dữ liệu cho bài báo công chúng.  | - *Data Journalism Handbook* – Jonathan Gray (Tiếng Anh)<br>- *Python for Data Analysis* – Wes McKinney (Tiếng Anh, nếu muốn)   | 1. Tập phân tích dữ liệu mở: CSV, Excel, JSON.<br>2. Làm đồ thị, bản đồ, biểu đồ cho bài báo.<br>3. Viết bài báo kết hợp dữ liệu.  |
 
--
-
 ### **Nhóm 4: Báo chí điều tra & chuyên sâu**
 
 Nhóm này giúp bạn **đọc, tìm hiểu, khai thác thông tin, viết bài điều tra chuyên sâu**.
@@ -46,7 +43,7 @@ Nhóm này giúp bạn **đọc, tìm hiểu, khai thác thông tin, viết bài
 | **Investigative & Watchdog Reporting** | Báo cáo điều tra, truy xuất dữ liệu, phỏng vấn nguồn ẩn, storytelling chuyên sâu. | - *Investigative Journalism: Context and Practice* – Hugo de Burgh (Tiếng Anh)  | 1. Chọn 1 vấn đề xã hội, thu thập dữ liệu, phỏng vấn.<br>2. Viết bài phân tích, kết hợp dữ liệu & nhân vật thực.<br>3. Nhận xét và so sánh với báo điều tra chuyên nghiệp. |
 | **Feature & Narrative Storytelling**   | Viết bài feature, human-interest story, narrative journalism.   | - *Feature Writing: The Pursuit of Excellence* – Edward Jay Friedlander (Tiếng Anh)<br>- *Kỹ năng viết feature* – Nguyễn Thị Lan (Tiếng Việt, nếu có) | 1. Thực hành viết ít nhất 2 bài feature/tuần.<br>2. Nhận xét và chỉnh sửa để tạo cảm xúc, cốt truyện.  |
 
--
+
 
 ### **Nhóm 5: Thực hành & đồ án**
 
