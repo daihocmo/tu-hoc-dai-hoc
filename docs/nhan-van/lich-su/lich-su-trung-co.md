@@ -1,6 +1,0 @@
-# Lịch sử thế giới thời trung đại
-
-!!! info "Nguồn"
-    [Lịch Sử Trung Cổ: Thập Tự Chinh, Thánh Chiến và Dòng Chúa Ba Ngôi](https://www.facebook.com/khaiminhpublishing/posts/4152580501537527/)
-
-Trung cổ hay Trung đại (kéo dài từ thế kỷ V - XV tính theo Tây lịch), một thời kỳ chuyển tiếp nằm ở giữa thời kỳ Cổ đại và Hiện đại ở châu Âu, luôn là đề tài nghiên cứu sôi nổi của giới sử học hiện đại. Tuy thế, tập sách mọn này không có ý xây dựng những đề tài nghiên cứu cho bằng thuật lại những sự kiện lịch sử mang tính thời cuộc. Mục đích của quyển sách món này là cung cấp một cái nhìn chung về lịch sử thời kỳ Trung cổ ở châu Âu, cũng như các kiến thức cần thiết để hiểu về các khía cạnh chính trị, kinh tế, xã hội và tôn giáo của các thế kỷ khác nhau, chủ yếu từ thế kỷ V - XV. Ấy là chúng ta đang đảo quanh Phần I. Trong Phần II, theo dòng chảy của lịch sử Giáo hội về sự thành lập các dòng tu khất thực, xin hân hạnh giới thiệu với người Công giáo Việt Nam dòng CHÚA BA NGÔI (viết tắt: O.SS.T), một dòng tu Khất thực lâu đời nhất của Giáo hội, nhưng mới được du nhập vào Việt Nam vài năm gần đây. Dòng tu lâu đời này cũng được hình thành trong thời kỳ Trung cổ. Ngoài ra, quyển sách mọn này còn được xuất bản một phần nhằm ra mắt quý độc giả nhân dịp kỷ niệm 822 năm (17/12/1198-17/12/2020 ) Giáo hoàng Innocente III chuẩn y Tu luật, thành lập dòng Chúa Ba Ngôi tại Roma.

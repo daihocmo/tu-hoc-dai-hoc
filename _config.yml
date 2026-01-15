@@ -1,0 +1,7 @@
+title: Tự học đại học
+remote_theme: "jekyll/minima@7d91bb5"
+minima:
+  skin: auto
+  nav_pages:
+    - DANH_SACH.md
+include: ['CONTRIBUTING.md']
