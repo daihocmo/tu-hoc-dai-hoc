@@ -1,3 +1,0 @@
-# Đóng góp
-
-Mình lười quá nên chưa viết...

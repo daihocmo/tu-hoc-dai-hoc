@@ -1,8 +1,0 @@
-<a class="nav-item" href="https://daihocmo.github.io">Khu học mở</a>
-{%- for path in include.paths -%}
-  {%- assign hyperpage = site.pages | where: "path", path | first -%}
-  {%- if hyperpage.title %}
-  <a class="nav-item" href="{{ hyperpage.url | relative_url }}">{{ hyperpage.title | escape }}</a>
-  {%- endif -%}
-{%- endfor -%}
-<a class="nav-item" href="https://github.com/daihocmo/tu-hoc-dai-hoc">GitHub</a>
